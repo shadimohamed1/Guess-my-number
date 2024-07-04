@@ -1,2 +1,2 @@
 # Guess-my-number
-Guess game
+Welcome to the Number Guessing Game! In this interactive web app, you will try to guess a secret number between 1 and 20. You have a limited number of attempts to guess the number correctly. As you play, you can see if your guess is too high or too low. The game keeps track of your score and highscore, giving you a chance to beat your previous best. Good luck and have fun guessing!
